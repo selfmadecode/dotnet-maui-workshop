@@ -4,7 +4,7 @@
              x:Class="MonkeyFinder.View.MainPage">
 
     <CollectionView>
-         
+        // items here
     </CollectionView>
 
     
